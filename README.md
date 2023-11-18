@@ -24,5 +24,7 @@
 <p>Once cloned, open your preferred Integrated Development Environment (IDE) and navigate to the src folder. This is where all the project files are located. Feel free to explore the contents at your convenience.</p>
 
 <p>If you're interested in running the project, locate the file named "Teste Produto" and execute it within your IDE.</p>
-
+<br>
+<img width=800px height=400px src="javaTest.png">
+<br>
 <p>Enjoy exploring the project, and if you have any questions or need further assistance, feel free to reach out!</p>
