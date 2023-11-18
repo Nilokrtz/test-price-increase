@@ -4,8 +4,8 @@
 <p>JUnit is a powerful testing framework for Java, and this project serves as my hands-on experience in incorporating it into software development.</p>  
 
 <h2>Technologies Used</h2>
-Java
-JUnit 5
+<p>Java</p>
+<p>JUnit 5</p>
 
 <h2>Prerequisites</h2>
 <ul>
